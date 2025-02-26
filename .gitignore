@@ -80,3 +80,4 @@ bin/*.bin
 bin/*.dat
 demos/FMXExternalPumpBrowser/FMXExternalPumpBrowser.res
 
+/bin/cache
